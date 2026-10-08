@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "name": "Stretch Reminder (example)",
+    "slug": "mini-stretch-reminder-example",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "automatic",
+    "experiments": {
+      "tsconfigPaths": false
+    }
+  }
+}
